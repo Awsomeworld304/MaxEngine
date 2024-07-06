@@ -6,7 +6,7 @@ mods
 .haxelib
 
 ### VS Code
-export/*
+!export/*
 .vscode/*
 *.code-workspace
 # Local history which shouldn't be shared.
