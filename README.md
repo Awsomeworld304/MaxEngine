@@ -1,5 +1,5 @@
 # Max Engine | Engine From Scratch
-The Engine from scratch, rewritten from the ground up.\
+A rhythm game engine written in Haxeflixel, inspired from the popular game Friday Night Funkin' by [The Funkin' Crew](https://github.com/FunkinCrew).\
 Please be aware of how licenses work, along with this repos license.\
 For more information on this repos license, please visit [Mozilla Public License 2.0 Choose a License](https://choosealicense.com/licenses/mpl-2.0/#).
 ## Engine Features
