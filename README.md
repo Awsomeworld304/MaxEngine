@@ -1,7 +1,7 @@
 # Max Engine | Engine From Scratch
 The Engine from scratch, rewritten from the ground up.\
 Please be aware of how licenses work, along with this repos license.\
-For more information on this repos license, please visit (Mozilla Public License 2.0 - Choose a License)[https://choosealicense.com/licenses/mpl-2.0/#].
+For more information on this repos license, please visit [Mozilla Public License 2.0 Choose a License](https://choosealicense.com/licenses/mpl-2.0/#).
 ## Engine Features
 - New input system.
 - More to come in the future.
