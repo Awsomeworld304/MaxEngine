@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"openfl.lime-vscode-extension",
+		"redhat.vscode-xml",
+		"vshaxe.haxe-extension-pack",
+		"wiggin77.codedox",
+		"aaron-bond.better-comments"
+	]
+}
